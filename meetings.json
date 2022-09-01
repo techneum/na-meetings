@@ -342,7 +342,7 @@
     "location": "Davao City",
     "address": "Cafe Munda",
     "days": ["Sunday"],
-    "schedule": "Sundays 1:00 - 2:00 PM",
+    "schedule": "Sundays, 1:00 - 2:00 PM",
     "contact": "",
     "coords": [7.0588175, 125.5930359],
     "area": "Mindanao"
@@ -423,5 +423,49 @@
     "contact": "GSR Jeffrey C. - 09186789518",
     "coords": [6.128943, 125.187802],
     "area": "Mindanao"
+  },
+  {
+    "id": "cdadf6dd-5c31-42c6-98e5-25257397d786",
+    "homegroup": "Tacloban Doganards Meeting",
+    "location": "Tacloban City",
+    "address": "Our Lady of Lourdes Church V&G Subdivision",
+    "days": ["Monday"],
+    "schedule": "Mondays, 6:00 - 7:00 PM",
+    "contact": "",
+    "coords": [11.206525, 124.9991567],
+    "area": "Visayas"
+  },
+  {
+    "id": "a39965fc-0ae5-4ffc-a16d-3b58ffbfa852",
+    "homegroup": "Tacloban Doganards Meeting",
+    "location": "Tacloban City",
+    "address": "Rooftop Prime Hub Solutions Cordeta Bldg corner Zamora and Del Pilar St, Tacloban City",
+    "days": ["Wednesday"],
+    "schedule": "Wednesdays, 6:00 - 7:00 PM",
+    "contact": "",
+    "coords": [11.2443303, 125.002492],
+    "area": "Visayas"
+  },
+  {
+    "id": "fbde879c-cb3a-4f8b-816f-99623e6d6dcd",
+    "homegroup": "Tacloban Doganards Meeting",
+    "location": "Tacloban City",
+    "address": "Redemptorist Church",
+    "days": ["Friday"],
+    "schedule": "Fridays, 6:00 - 7:00 PM",
+    "contact": "",
+    "coords": [11.2328931, 125.001679],
+    "area": "Visayas"
+  },
+  {
+    "id": "f16b10d8-fc64-4f17-bbf2-b4222b3d6569",
+    "homegroup": "Tacloban Doganards Meeting",
+    "location": "Tacloban City",
+    "address": "Phhc Subdivion Barangay hall",
+    "days": ["Saturday"],
+    "schedule": "Saturdays, 5:00 - 7:00 PM",
+    "contact": "",
+    "coords": [11.1568642, 124.9275859],
+    "area": "Visayas"
   }
 ]
