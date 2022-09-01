@@ -227,7 +227,7 @@
     "days": ["Monday", "Wednesday", "Saturday"],
     "schedule": "Mon, Wed & Sat, 7:00 - 8:00 PM",
     "contact": "GSR Mark A.-  09356330309",
-    "coords": [8.22452, 124.1878063],
+    "coords": [8.237108, 124.243289],
     "area": "Mindanao"
   },
   {
@@ -289,7 +289,7 @@
     ],
     "schedule": "Mon - Sat, 7:00 - 8:00 PM",
     "contact": "GSR Peter - 09087674704",
-    "coords": [8.386693, 123.4414507],
+    "coords": [8.466632, 123.790798],
     "area": "Mindanao"
   },
   {
@@ -366,7 +366,7 @@
     "days": ["Thursday"],
     "schedule": "Thursdays, 6:00 - 7:00 PM",
     "contact": "",
-    "coords": [9.7911746, 125.3571904],
+    "coords": [9.7902441,125.4872579],
     "area": "Mindanao"
   },
   {
@@ -377,7 +377,7 @@
     "days": ["Saturday"],
     "schedule": "Saturdays, 6:00 - 7:00 PM",
     "contact": "",
-    "coords": [9.7911746, 125.3571904],
+    "coords": [9.791184, 125.488207],
     "area": "Mindanao"
   },
   {
