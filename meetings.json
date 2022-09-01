@@ -246,8 +246,8 @@
     "homegroup": "Recovery Road Homegroup",
     "location": "Ozamiz City",
     "address": "Purok 6, Carangan",
-    "days": ["Thursday", "Saturday", "Friday", "Sunday"],
-    "schedule": "Thurs & Sun, 7:00 - 8:00 PM<br>Fridays, 4:00 - 5:00 PM<br>Sundays, 10:00 - 11:00 AM",
+    "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "schedule": "Mon - Thurs, 7:00 - 8:00 PM<br>Thurs & Sat, 7:00 - 8:00 PM<br>Fridays, 4:00 - 5:00 PM<br>Sundays, 10:00 - 11:00 AM",
     "contact": "",
     "coords": [8.1382729, 123.79293],
     "area": "Mindanao"
