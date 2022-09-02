@@ -1,5 +1,5 @@
-[
-  [
+{
+  "meetings": [
     {
       "id": "3cae428d-f5cf-46cc-ba53-0711552807a8",
       "homegroup": "Imus Homegroup",
@@ -247,7 +247,15 @@
       "homegroup": "Recovery Road Homegroup",
       "location": "Ozamiz City",
       "address": "Purok 6, Carangan",
-      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
       "schedule": "Mon - Thurs, 7:00 - 8:00 PM<br>Thurs & Sat, 7:00 - 8:00 PM<br>Fridays, 4:00 - 5:00 PM<br>Sundays, 10:00 - 11:00 AM",
       "contact": null,
       "coords": [8.1382729, 123.79293],
@@ -367,7 +375,7 @@
       "days": ["Thursday"],
       "schedule": "Thursdays, 6:00 - 7:00 PM",
       "contact": null,
-      "coords": [9.7902441,125.4872579],
+      "coords": [9.7902441, 125.4872579],
       "area": "Mindanao"
     },
     {
@@ -469,8 +477,6 @@
       "coords": [11.1568642, 124.9275859],
       "area": "Visayas"
     }
-  ], 
-  { 
-    "lastUpdated": "08/29/2022"
-  }
-]
+  ],
+  "lastUpdated": "8/29/2022"
+}
