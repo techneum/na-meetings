@@ -6,7 +6,7 @@
     "address": "Imus Cathedral Church Cavite",
     "days": ["Wednesday"],
     "schedule": "Wednesdays, 6:30 - 7:30 PM",
-    "contact": "",
+    "contact": null,
     "coords": [14.4300021, 120.9362989],
     "area": "Luzon"
   },
@@ -17,7 +17,7 @@
     "address": "Starbucks West Avenue, QC",
     "days": ["Wednesday"],
     "schedule": "Wednesdays, 9:00 - 10:00 AM",
-    "contact": "",
+    "contact": null,
     "coords": [14.6400778, 121.022089],
     "area": "Luzon"
   },
