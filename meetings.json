@@ -1,6 +1,4 @@
-{
-  "lastUpdated" : "8/29/2022",
-  "meetings": [
+[
     {
       "id": "3cae428d-f5cf-46cc-ba53-0711552807a8",
       "homegroup": "Imus Homegroup",
@@ -479,4 +477,3 @@
       "area": "Visayas"
     }
   ]
-}
