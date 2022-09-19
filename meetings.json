@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "8/29/2022",
+  "lastUpdated": "9/19/2022",
   "meetings": [
     {
       "id": "3cae428d-f5cf-46cc-ba53-0711552807a8",
@@ -477,6 +477,50 @@
       "contact": null,
       "coords": [11.1568642, 124.9275859],
       "area": "Visayas"
+    },
+    {
+      "id": "3753ccb1-5901-426a-bcb1-1de0f8168ef7",
+      "homegroup": "Trenton Homegroup",
+      "location": "Agusan del Sur",
+      "address": "Bahay Silangan",
+      "days": ["Tuesday", "Thursday", "Saturday"],
+      "schedule": "Tues, Thurs, Sat, 7:00 - 8:00 PM",
+      "contact": "GSR Homer P. 09514148144",
+      "coords": [9.0970619, 125.5125001],
+      "area": "Mindanao"
+    },
+    {
+      "id": "b0600846-2f53-45a8-95ef-cf6b0e43d23e",
+      "homegroup": "Patin-ay Homegroup",
+      "location": "Agusan del Sur",
+      "address": "Bahay Silangan",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "schedule": "Mon, Wed, Fri, 7:00 - 8:00 PM",
+      "contact": "Danny T. 09503409911",
+      "coords": [8.5538106, 125.9411162],
+      "area": "Mindanao"
+    },
+    {
+      "id": "2b5c502a-eede-4a96-8704-2cb29848ac0f",
+      "homegroup": "San Francisco Homegroup",
+      "location": "Agusan del Sur",
+      "address": "Covered Court",
+      "days": ["Tuesday", "Thursday"],
+      "schedule": "Tues, Thurs, 7:00 - 8:00 PM",
+      "contact": "Jerry L. 09307615842",
+      "coords": [8.5538102, 125.9257953],
+      "area": "Mindanao"
+    },
+    {
+      "id": "4a02799d-cd34-4a84-8e9e-1e2acdc63669",
+      "homegroup": "Bah-bah Homegroup",
+      "location": "Agusan del Sur",
+      "address": "Tata G Residence",
+      "days": ["Saturday"],
+      "schedule": "Saturdays, 7:00 - 8:00 PM",
+      "contact": "GSR Charlie B. 09505643379",
+      "coords": [8.9598632, 125.4573749],
+      "area": "Mindanao"
     }
   ]
 }
