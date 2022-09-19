@@ -497,7 +497,7 @@
       "days": ["Monday", "Wednesday", "Friday"],
       "schedule": "Mon, Wed, Fri, 7:00 - 8:00 PM",
       "contact": "Danny T. 09503409911",
-      "coords": [8.6334075,125.777725],
+      "coords": [8.6334075, 125.777725],
       "area": "Mindanao"
     },
     {
@@ -521,6 +521,50 @@
       "contact": "GSR Charlie B. 09505643379",
       "coords": [8.6109091, 125.9119961],
       "area": "Mindanao"
+    },
+    {
+      "id": "3201139e-ae0c-47ec-a8fb-8fc25e41f58e",
+      "homegroup": "Mag Isip Ka Homegroup",
+      "location": "Angeles City",
+      "address": "Daycare Center, L&S Subdivision, Barangay Sto. Domingo, Angeles City (near church)",
+      "days": ["Tuesday"],
+      "schedule": "Tuesdays, 6:00 - 7:00 PM",
+      "contact": null,
+      "coords": [15.1213593, 120.5933624],
+      "area": "Luzon"
+    },
+    {
+      "id": "bc4d1b41-f012-4f5c-8bd6-9983e2c50606",
+      "homegroup": "Sabayan Na Sa Pulung Marugul",
+      "location": "Angeles City",
+      "address": "Old Barangay Hall, Barangay Pulung Maragul, Angeles City",
+      "days": ["Sunday"],
+      "schedule": "Sundays, 5:30 - 6:30 PM",
+      "contact": null,
+      "coords": [15.0656149, 120.5380539],
+      "area": "Luzon"
+    },
+    {
+      "id": "495dccfc-6e38-4313-93e0-a685276e9d52",
+      "homegroup": "Adventist Elementary School",
+      "location": "Angeles City",
+      "address": "Angeles Adventist elementary school, covered court, barangay Claro M. Recto, Angeles City",
+      "days": ["Friday"],
+      "schedule": "Fridays, 10:00 - 11:00 AM",
+      "contact": null,
+      "coords": [15.1461865, 120.5871224],
+      "area": "Luzon"
+    },
+    {
+      "id": "495dccfc-6e38-4313-93e0-a685276e9d52",
+      "homegroup": "Baguio Homegroup",
+      "location": "Baguio City",
+      "address": "Cafe Will, Baguio City",
+      "days": ["Sunday"],
+      "schedule": "Sundays, 9:00 - 10:00 AM",
+      "contact": null,
+      "coords": [16.4082975, 120.5902172],
+      "area": "Luzon"
     }
   ]
 }
