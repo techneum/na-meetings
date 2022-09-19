@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "9/19/2022",
+  "lastUpdated": "8/29/2022",
   "meetings": [
     {
       "id": "3cae428d-f5cf-46cc-ba53-0711552807a8",
@@ -486,14 +486,14 @@
       "days": ["Tuesday", "Thursday", "Saturday"],
       "schedule": "Tues, Thurs, Sat, 7:00 - 8:00 PM",
       "contact": "GSR Homer P. 09514148144",
-      "coords": [9.0970619, 125.5125001],
+      "coords": [8.0803555,125.9011547],
       "area": "Mindanao"
     },
     {
       "id": "b0600846-2f53-45a8-95ef-cf6b0e43d23e",
       "homegroup": "Patin-ay Homegroup",
       "location": "Agusan del Sur",
-      "address": "Bahay Silangan",
+      "address": "ODIC",
       "days": ["Monday", "Wednesday", "Friday"],
       "schedule": "Mon, Wed, Fri, 7:00 - 8:00 PM",
       "contact": "Danny T. 09503409911",
@@ -508,7 +508,7 @@
       "days": ["Tuesday", "Thursday"],
       "schedule": "Tues, Thurs, 7:00 - 8:00 PM",
       "contact": "Jerry L. 09307615842",
-      "coords": [8.5538102, 125.9257953],
+      "coords": [8.3533206, 125.4384505],
       "area": "Mindanao"
     },
     {
@@ -519,7 +519,7 @@
       "days": ["Saturday"],
       "schedule": "Saturdays, 7:00 - 8:00 PM",
       "contact": "GSR Charlie B. 09505643379",
-      "coords": [8.9598632, 125.4573749],
+      "coords": [8.5820886, 125.833755],
       "area": "Mindanao"
     }
   ]
