@@ -126,11 +126,22 @@
       "id": "ca33089c-bc74-4e6e-890c-e4f06cf5f701",
       "homegroup": "Bahala na Siya Homegroup",
       "location": "Angeles City",
-      "address": "US Healthmark Building, Angeles Pampanga",
+      "address": "Roof top Crossroads 44 bldg., Don Juico Avenue Clark Eve, Friendship, Angeles City",
       "days": ["Sunday"],
       "schedule": "Sundays, 6:00 - 7:00 PM",
       "contact": null,
-      "coords": [15.1641947, 120.5489469],
+      "coords": [15.163776, 120.5566204],
+      "area": "Luzon"
+    },
+    {
+      "id": "ca33089c-bc74-4e6e-890c-e4f06cf5f123",
+      "homegroup": "Matic Homegroup",
+      "location": "Angeles City",
+      "address": "Roof top Crossroads 44 bldg., Don Juico Avenue Clark Eve, Friendship, Angeles City",
+      "days": ["Thursday"],
+      "schedule": "Thursdays, 6:00 - 7:00 PM",
+      "contact": null,
+      "coords": [15.163776, 120.5566204],
       "area": "Luzon"
     },
     {
